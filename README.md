@@ -7,3 +7,7 @@ You can add branch name (and really many other things if you tweak the script) t
 ```
 
 assuming that the current directory is the same as your's repo root directory.
+
+Each time you commit you will see such message addition as the example below
+
+![example commit with addition](./thumbnail.png "example commit with addition")
