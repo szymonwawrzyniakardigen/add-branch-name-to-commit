@@ -1,0 +1,3 @@
+#!/bin/sh
+BRANCH_NAME=`git branch | grep '*' | tr -d '* '`
+echo "[$BRANCH_NAME] `cat $1`" > $1
